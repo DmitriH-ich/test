@@ -8,5 +8,5 @@ public class Hello {
     int b = scanner.nextInt();
     System.out.println(a + b);
   }
-
+// меняет цвет в синий
 }
