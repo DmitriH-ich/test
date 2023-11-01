@@ -1,4 +1,5 @@
 public class Main01 {
+    // комментарий: через ГитХаб
 
     public static int concat(int[] arr){
       // переменная куда будем записывать результат
